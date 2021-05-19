@@ -1,0 +1,7 @@
+africa
+asia
+europe
+northamerica
+southamerica
+todo
+world
